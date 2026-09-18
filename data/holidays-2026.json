@@ -1,5 +1,5 @@
 {
-  "weekdayWeight": 2,
+  "weekdayWeight": 4,
   "offdayWeight": 1,
   "dateWeightOverrides": {},
   "days": [
