@@ -1,7 +1,14 @@
 {
-  "weekdayWeight": 4,
-  "offdayWeight": 1,
-  "dateWeightOverrides": {},
+  "weekdayWeight": 10,
+  "offdayWeight": 5,
+  "dateWeightOverrides": {
+    "2026-09-25": 1,
+    "2026-09-26": 1,
+    "2026-09-27": 1,
+    "2026-09-28": 1,
+    "2026-09-29": 1,
+    "2026-09-30": 1,
+  },
   "days": [
     { "name": "元旦", "date": "2026-01-01", "isOffDay": true },
     { "name": "元旦", "date": "2026-01-02", "isOffDay": true },
